@@ -5,4 +5,4 @@ custom:
 - drips/owner/0x0123456789abcdef0123456789abcdef01234567
 # drips:owner:0x0123456789abcdef0123456789abcdef01234567 fails to parse
 - 'whatever'
-other: 'abcd'
+other: 'abcd' # custom keys are ignored
