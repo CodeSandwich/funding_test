@@ -1,4 +1,5 @@
 github: 'dunno'
-ko_fi: 'kofi-link-6'
-custom: '0x0123456789abcdef0123456789abcdef01234567'
+ko_fi: 'kofi-link-8'
+custom:
+- '0x0123456789abcdef0123456789abcdef01234567'
 other: 'abcd'
