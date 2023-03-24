@@ -2,6 +2,6 @@ github: 'dunno'
 ko_fi: 'kofi-link-11'
 custom:
 - nothing
-- 'drips:owner:0x0123456789abcdef0123456789abcdef01234567'
+- 'drips/owner/0x0123456789abcdef0123456789abcdef01234567'
 - 'whatever'
 other: 'abcd'
